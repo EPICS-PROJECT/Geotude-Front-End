@@ -48,7 +48,7 @@ export default function navbarhome(){
           <div className="sm:flex sm:gap-4">
             <a
               className="rounded-md  px-5 py-2.5 text-sm font-medium shadow " id="login"
-              href="https://allergytracker.s3.us-west-2.amazonaws.com/index.html"
+              href="https://webgen-patients.s3.us-west-2.amazonaws.com/index.html"
             >
               Get Started
             </a>
